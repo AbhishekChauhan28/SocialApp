@@ -1,0 +1,12 @@
+.home{
+    background-color: rgb(235,238,242);
+    /* height: 100vh;
+    overflow-y: scroll; */
+}
+
+.ComponentContainer{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
